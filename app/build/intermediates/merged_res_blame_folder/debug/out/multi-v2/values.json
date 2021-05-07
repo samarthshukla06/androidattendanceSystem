@@ -1,0 +1,89 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\samar\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\samar\\.gradle\\caches\\transforms-2\\files-2.1\\6bd21d6dc801eae99ce446158e86ccc1\\support-media-compat-26.1.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,7,38,61,63,64,69,71",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "187,276,405,2307,3463,3639,3761,4023,4218",
+                        "endColumns": "88,70,72,59,65,121,60,65,66",
+                        "endOffsets": "271,342,473,2362,3524,3756,3817,4084,4280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\samar\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,527",
+                        "endLines": "12,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "489,684"
+                    },
+                    "to": {
+                        "startLines": "44,51",
+                        "startColumns": "4,4",
+                        "startOffsets": "2675,2983",
+                        "endLines": "50,55",
+                        "endColumns": "12,12",
+                        "endOffsets": "2978,3140"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\samar\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "40,41,42",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2437,2490,2551",
+                        "endColumns": "52,60,52",
+                        "endOffsets": "2485,2546,2599"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\samar\\.gradle\\caches\\transforms-2\\files-2.1\\b265fcbfa454d90f6ae775cba880fb8c\\support-compat-26.1.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,6,8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,39,43,56,57,62,65,70,72,73",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,347,478,666,736,804,876,946,1007,1068,1129,1191,1255,1317,1378,1446,1546,1606,1672,1745,1814,1871,1923,1985,2057,2133,2168,2203,2237,2272,2367,2604,3145,3262,3529,3822,4089,4285,4357",
+                        "endLines": "2,3,6,8,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,39,43,56,60,62,68,70,72,73",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "119,182,400,547,731,799,871,941,1002,1063,1124,1186,1250,1312,1373,1441,1541,1601,1667,1740,1809,1866,1918,1980,2052,2128,2163,2198,2232,2267,2302,2432,2670,3257,3458,3634,4018,4213,4352,4419"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\samar\\Downloads\\Android-Attendance-App-master\\Android-Attendance-App-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "552,610",
+                        "endColumns": "57,55",
+                        "endOffsets": "605,661"
+                    }
+                }
+            ]
+        }
+    ]
+}
